@@ -117,7 +117,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Swaranjana Nayak - [@LinkedIn](https://www.linkedin.com/in/greatyashtiwari/) - greatyashtiwari@gmail.com
+Yash Tiwari - [@LinkedIn](https://www.linkedin.com/in/greatyashtiwari/) - greatyashtiwari@gmail.com
 
 
 
