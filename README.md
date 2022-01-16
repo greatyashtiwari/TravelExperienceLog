@@ -92,7 +92,7 @@ To get a local copy up and running follow these simple steps.
 3. Import the [Database](https://github.com/sn2606/TravelLog/blob/master/Database/travellog.sql)
 4. Clone the repository in any folder and name folder as per choice.
     ```
-    git clone git@github.com:sn2606/TravelLog.git your-folder-name
+    git clone git@github.com:greatyashtiwari/TravelExperienceLog.git your-folder-name
     ```
 5. Start XAMPP servers - Apache and MySQL
 6. Start PHP development server (at port of your choice) in Folder Directory via command line
